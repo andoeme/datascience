@@ -1,4 +1,4 @@
-# data_science
+# Data Science Course
 My work on the Data Science Mini-Degree by Zenva Academy
 
 [2 - Learn Python Programming by Making a Game](https://melanieguenther.github.io/datascience/2_learn_python_programming_by_making_a_game.py)
