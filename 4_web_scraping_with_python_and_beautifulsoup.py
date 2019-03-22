@@ -105,13 +105,28 @@ with open('genome.csv', "w", encoding="utf-8") as f:
 f.close()
 print("Success!")
 
-references = parsedHtml.findAll('div', {'class': 'reflist'})
+# Get non-table text from a website
+references = parsedHtml.findAll('ol', {'class': 'references'})
 
-refLinks = []
+refList = [] # Stores the text of references
 
 for link in references:
-    links = link.findAll('a', {'class': 'external text'})
+    links = link.findAll('cite', {'class': 'citation'})
     
     for a in links:
-        refLinks.append(a.text)
-print(refLinks)
+        refList.append(a.text)
+#print(refList)
+print(refList[0])
+# Brosius, J (2009), "The Fragmented Gene", Annals of the New York Academy of Sciences, 1178 (1): 186–93,
+# Bibcode:2009NYASA1178..186B, doi:10.1111/j.1749-6632.2009.05004.x
+
+refList = [] # Stores the links of the references
+
+for link in references:
+    # Only select the external links
+    for a in link.findAll('a', {'class': 'external text'}):
+        refList.append(a['href']) # Make a dictionary and only select kex 'href'
+        
+print(refList)
+print(refList[0])
+# http://adsabs.harvard.edu/abs/2009NYASA1178..186B
