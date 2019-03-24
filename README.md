@@ -10,6 +10,6 @@ Learning about matrices in this course was interesting. Matrices aren't complex,
 
 [4 - Web Scraping with Python and BeautifulSoup](https://andoeme.github.io/datascience/4_web_scraping_with_python_and_beautifulsoup.py)
 I was excited about the web scraping part. I learnt how to scrape data from a webpage, how to filter the data and write it readable to a file.
-I worked woth table and non-table data. The table-data was written to a CSV file and I imported it to Excel. It looks great!
+I worked with table and non-table data. The table-data was written to a CSV file and I imported it to Excel. It looks great!
 
-**There are 9 more chapters in this couse and I'll upload them as soon as i completed the tasks. I'm looking forward to working with Pandas.**
+**There are 9 more chapters in this couse and I'll upload them as soon as I complete the tasks. I'm looking forward to working with Pandas.**
