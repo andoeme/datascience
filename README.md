@@ -12,7 +12,7 @@ Learning about matrices in this course was interesting. Matrices aren't complex,
 I was excited about the web scraping part. I learnt how to scrape data from a webpage, how to filter the data and write it readable to a file.
 I worked with table and non-table data. The table-data was written to a CSV file and I imported it to Excel. It looks great!
 
-[5 - Reading Data From APIs With Python](https://andoeme.github.io/datascience/5_reading_data_from_apis_with_python.py) Further Scraping using JSOn and XML data using APIs. Writing to CSV files as well.
+[5 - Reading Data from APIs with Python](https://andoeme.github.io/datascience/5_reading_data_from_apis_with_python.py) Further Scraping using JSOn and XML data using APIs. Writing to CSV files as well.
 
 
 **There are 8 more chapters in this course and I'll upload them as soon as I complete the tasks. I'm looking forward to working with Pandas.**
