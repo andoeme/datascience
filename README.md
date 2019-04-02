@@ -15,4 +15,4 @@ I worked with table and non-table data. The table-data was written to a CSV file
 [5 - Reading Data From APIs With Python](https://andoeme.github.io/datascience/5_reading_data_from_apis_with_python.py) Further Scraping using JSOn and XML data using APIs. Writing to CSV files as well.
 
 
-**There are 9 more chapters in this couse and I'll upload them as soon as I complete the tasks. I'm looking forward to working with Pandas.**
+**There are 8 more chapters in this course and I'll upload them as soon as I complete the tasks. I'm looking forward to working with Pandas.**
