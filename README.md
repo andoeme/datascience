@@ -14,7 +14,7 @@ I worked with table and non-table data. The table-data was written to a CSV file
 
 [5 - Reading Data from APIs with Python](https://andoeme.github.io/datascience/5_reading_data_from_apis_with_python.py) Further Scraping with JSON and XML data using APIs. Writing to CSV files as well.
 
-[6 - Beginning SQL - Store and Query Your Data](https://andoeme.github.io/datascience/6_beginning_sql_store_and_query_your_data.py) This lecture was about connection to a database and fetching data in Python using SQLite. Finally I store the results in a CSV file. Since I worked before with SQL and databases in C#, I treated this lecture as a refresher. I look forward to the next chapter!
+[6 - Beginning SQL - Store and Query Your Data](https://andoeme.github.io/datascience/6_beginning_sql_store_and_query_your_data.py) This lecture was about connection to a database and fetching data in Python using SQLite. Finally I store the results in a CSV file. Since I worked before with SQL and databases in C#, I treated this lecture as a refresher. With Python this is far easier. I look forward to the next chapter!
 
 
 **There are 7 more chapters in this course and I'll upload them as soon as I complete the tasks. I'm looking forward to working with Pandas.**
