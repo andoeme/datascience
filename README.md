@@ -16,5 +16,8 @@ I worked with table and non-table data. The table-data was written to a CSV file
 
 [6 - Beginning SQL - Store and Query Your Data](https://andoeme.github.io/datascience/6_beginning_sql_store_and_query_your_data.py) This lecture was about connection to a database and fetching data in Python using SQLite. Finally I store the results in a CSV file. Since I worked before with SQL and databases in C#, I treated this lecture as a refresher. With Python this is far easier. I look forward to the next chapter!
 
+[7 - Intermediate SQL - Create and Alter Databases](https://andoeme.github.io/datascience/7_intermediate_sql_create_and_alter_databases.py) I l jiked learning more about foreing keys and practiving inner joins. Next up is working with Pandas!
+
+
 
 **There are 7 more chapters in this course and I'll upload them as soon as I complete the tasks. I'm looking forward to working with Pandas.**
