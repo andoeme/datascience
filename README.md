@@ -20,4 +20,4 @@ I worked with table and non-table data. The table-data was written to a CSV file
 
 
 
-**There are 7 more chapters in this course and I'll upload them as soon as I complete the tasks. I'm looking forward to working with Pandas.**
+**There are 6 more chapters in this course and I'll upload them as soon as I complete the tasks. I'm looking forward to working with Pandas.**
