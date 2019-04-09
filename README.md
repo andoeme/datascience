@@ -18,6 +18,7 @@ I worked with table and non-table data. The table-data was written to a CSV file
 
 [7 - Intermediate SQL - Create and Alter Databases](https://andoeme.github.io/datascience/7_intermediate_sql_create_and_alter_databases.py) I l jiked learning more about foreing keys and practiving inner joins. Next up is working with Pandas!
 
+[8 - Data Manipulation with Pandas](https://andoeme.github.io/datascience/8_data_manipulation_with_pandas.py) This has been the most boring lecture so far. A lot of topics in Lecture 3 were covered again. Only a few new methods were introduced like opening a Excel or CSV file or vizualising dataframes. Next lesson hopefully gets more intriguing.
 
 
-**There are 6 more chapters in this course and I'll upload them as soon as I complete the tasks. I'm looking forward to working with Pandas.**
+**There are 5 more chapters in this course and I'll upload them as soon as I complete the tasks. I'm looking forward to working with Pandas.**
