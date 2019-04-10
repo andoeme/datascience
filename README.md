@@ -20,5 +20,8 @@ I worked with table and non-table data. The table-data was written to a CSV file
 
 [8 - Data Manipulation with Pandas](https://andoeme.github.io/datascience/8_data_manipulation_with_pandas.py) This has been the most boring lecture so far. A lot of topics in Lecture 3 were covered again. Only a few new methods were introduced like opening a Excel or CSV file or vizualising dataframes. Next lesson hopefully gets more intriguing.
 
+[9 - Data Analysis wiwth Python](https://andoeme.github.io/datascience/9_data_analysis_with_python.py) Wow, this lecture was intense! It introduced me to Statistics and teached me how to plot, join data and calculate Linear Regression. A bonus was to learn how prediction with slope and intercept work.
 
-**There are 5 more chapters in this course and I'll upload them as soon as I complete the tasks. I'm looking forward to working with Pandas.**
+![Scatter Plot with Linear Regression](linear_regression.jpg)
+
+**There are only 4 more chapters left in this course and I'll upload them as soon as I complete the tasks. I'm looking forward to working with Pandas.**
