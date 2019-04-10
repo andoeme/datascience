@@ -24,4 +24,4 @@ I worked with table and non-table data. The table-data was written to a CSV file
 
 ![Scatter Plot with Linear Regression](linear_regression.jpg)
 
-**There are only 4 more chapters left in this course and I'll upload them as soon as I complete the tasks. I'm looking forward to Probability and Hypothesis Testing.**
+**There are only 4 more chapters left in this course and I'll upload them as soon as I complete the tasks. I look forward to Probability and Hypothesis Testing.**
