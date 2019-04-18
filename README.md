@@ -22,6 +22,10 @@ I worked with table and non-table data. The table-data was written to a CSV file
 
 [9 - Data Analysis with Python](https://andoeme.github.io/datascience/9_data_analysis_with_python.py) Wow, this lecture was intense! It introduced me to Statistics and teached me how to plot and join data and how to calculate Linear Regression. A bonus was to learn how prediction with slope and intercept work.
 
-![Scatter Plot with Linear Regression](linear_regression.jpg)
+![Different Charts with Matplotlib and Linear Regression](data_analysis.jpg)
 
-**There are only 4 more chapters left in this course and I'll upload them as soon as I complete the tasks. I look forward to Probability and Hypothesis Testing.**
+[10 - The Complete Python Data Visualization Course](https://andoeme.github.io/datascience/10_the_complete_python_data_visualization_course.py) This course was intense as it teached different kind of charts using Matplotlib, Seaborn and Bokeh. I learnt that Bokeh is useful to visualize charts on websites creating automatically HTML files. Nice feature!
+
+![Different Kind of Charts Made with Seaborn](data_visualization.jpg)
+
+**There are only 3 more chapters left in this course and I'll upload them as soon as I complete the tasks. I look forward to Probability and Hypothesis Testing.**
