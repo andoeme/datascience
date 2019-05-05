@@ -1,7 +1,7 @@
 # Data Science Course
 My work on the Data Science Mini-Degree by Zenva Academy
 
-[2 - Learn Python Programming by Making a Game](https://andoeme.github.io/datascience/2_learn_python_programming_by_making_a_game.py)
+[2 - Learn Python Programming by Making a Game](https://andoeme.github.io/datascience/2_learn_python_programming_by_making_a_game.zip)
 This chapter teaches basic concepts of Python. A nice refresher to me were tuples, lists and dictionaries. Making the final project, a Crossy Game, was a lot of fun. I learnt how a game works using a Game Loop and classes. I added difficulty by increasing speed and amount of enemies. I even implemented right and left key functions as well. 
 
 You can check out my code to see the changes. They are not included in the image.
