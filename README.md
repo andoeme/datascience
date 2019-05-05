@@ -2,8 +2,11 @@
 My work on the Data Science Mini-Degree by Zenva Academy
 
 [2 - Learn Python Programming by Making a Game](https://andoeme.github.io/datascience/2_learn_python_programming_by_making_a_game.py)
-This chapter teaches basic concepts of Python. A nice refresher to me were tuples, lists and dictionaries. 
-**The final project is a game using PyGame. I haven't finished that one yet, but will upload it in the future.**
+This chapter teaches basic concepts of Python. A nice refresher to me were tuples, lists and dictionaries. Making the final project, a Crossy Game, was a lot of fun. I learnt how a game works using a Game Loop and classes. I added difficulty by increasing speed and amount of enemies. I even implemented right and left key functions as well. 
+
+You can check out my code to see the changes. They are not included in the image.
+
+![Crossy Game with Python](crossy.gif)
 
 [3 - Numpy Matrices and Vectors](https://andoeme.github.io/datascience/3_numpy_matrices_and_vectors.py)
 Learning about matrices in this course was interesting. Matrices aren't complex, but I learnt something new here: how to multiply them.
